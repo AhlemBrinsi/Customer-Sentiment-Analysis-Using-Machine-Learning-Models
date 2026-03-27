@@ -1,4 +1,4 @@
-# Customer Sentiment Analysis Using Machine Learning Models
+# Customer Sentiment Analysis on Social Media Posts using Machine Learning Models
 
 A machine learning project to classify customer opinions from social media posts (tweets) into positive, negative, or neutral sentiments. The project demonstrates a full data analysis and modeling pipeline with multiple machine learning algorithms.
 
